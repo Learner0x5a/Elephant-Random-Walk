@@ -15,3 +15,13 @@ Src file:
 2. erw2.py: Q2
 3. erw3.py: Q3.1
 
+Refs:
+
+* Gut, A. and Stadtmüller, U., 2018. Variations of the elephant random walk. arXiv preprint arXiv:1812.01915.
+
+* Bercu, B., 2017. A martingale approach for the elephant random walk. Journal of Physics A: Mathematical and Theoretical, 51(1), p.015201.
+
+* Schütz, G.M. and Trimper, S., 2004. Elephants can always remember: Exact long-range memory effects in a non-Markovian random walk. Physical Review E, 70(4), p.045101.
+
+
+
